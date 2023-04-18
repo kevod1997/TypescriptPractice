@@ -1,0 +1,12 @@
+{
+  "name": "typescriptpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "start:product": "tsc practiceTs/productHandler.ts --outdir dist/ && node dist/productHandler.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
